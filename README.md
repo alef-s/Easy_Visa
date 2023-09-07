@@ -11,8 +11,8 @@ In FY 2016, the OFLC processed 775,979 employer applications for 1,699,957 posit
 
 The increasing number of applicants every year calls for a Machine Learning based solution that can help in shortlisting the candidates having higher chances of VISA approval. OFLC has hired the firm EasyVisa for data-driven solutions. You as a data scientist at EasyVisa have to analyze the data provided and, with the help of a classification model:
 
-1- Facilitate the process of visa approvals.
-2- Recommend a suitable profile for the applicants for whom the visa should be certified or denied based on the drivers that significantly influence the case status.
+1. Facilitate the process of visa approvals.
+2. Recommend a suitable profile for the applicants for whom the visa should be certified or denied based on the drivers that significantly influence the case status.
 
 ### Data Description
 The data contains the different attributes of the employee and the employer. The detailed data dictionary is given below.
